@@ -1,0 +1,182 @@
+ 
+      *{
+        margin: 0;
+        padding: 0;
+      }
+      body{
+        min-height: 490px;
+        min-width: 920px;
+        overflow: hidden;
+        font-family: Microsoft YaHei,"黑体";
+        font-size: 14px;
+        color: #444444;
+      }
+      .warp{
+        margin: 60px auto;
+        width: 920px;
+        height: 470px;
+      }
+      .logo{
+        width: 100%;
+        height: 70px;
+        background-color: #487CB8;
+        border: 1px solid #487CB8;
+      }
+      .logo img{
+        height: 70px;
+        float: left;
+      }
+      .centreBox{
+        border: 1px solid #866B72;
+        width: 918px;
+        height: 398px;
+        position: relative;
+      }
+      .leftImg{
+        right: 315px;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        border: 1px solid #DDD3D4;
+        position: absolute;
+        /*background: url(%%IMAGE:imgbg%%);
+        */
+        /*background: url("../image/imgbg.png");
+        */
+        /*background-size: 100% 100%;
+        */
+      }
+      .leftImg div{
+        width: 50%;
+        height: 50%;
+        float: left;
+      }
+      .leftImg div img{
+        width: 100%;
+        height: 100%;
+      }
+      .login{
+        width: 315px;
+        height: 100%;
+        top: 0;
+        right: 0;
+        position: absolute;
+      }
+      .textTitle{
+        float: right;
+        font-size: 30px;
+        color: white;
+        text-indent: 15px;
+        width: 317px;
+        line-height: 70px;
+      }
+      .textTitle img{
+        height: 40px;
+        margin-top: 16px;
+      }
+      .reminder{
+        width: 280px;
+        margin-left: 20px;
+        margin-top: 10px;
+        font-size: 12px;
+      }
+      .reminder span{
+        float: left;
+        line-height: 20px !important;
+        margin-top: 10px;
+      }
+      .text{
+        width: 260px;
+        margin-left: 5px;
+      }
+      .formValidation{
+        height: 200px;
+        width: 100%;
+        margin-top: 60px;
+      }
+      .fel,.fer{
+        height: 30px;
+        width: 280px;
+        margin-left: 20px;
+        margin-top: 20px;
+        line-height: 30px;
+        font-weight: 600;
+      }
+      .fcb{
+        height: 30px;
+        width: 280px;
+        margin-left: 20px;
+        margin-top: 5px;
+        line-height: 30px;
+        font-weight: 600;
+      }
+      .fel input{
+        width: 215px;
+        height: 28px;
+        border: 1px solid #A4A4A4;
+        background-color: #FFF3C0;
+        float: right;
+      }
+      .fcb input{
+        margin-left: 59px;
+      }
+      .fcb span{
+        font-weight: 400;
+      }
+      .fer input{
+        color: #ffffff;
+        background-color: #eb9c12;
+        border: 0;
+        padding: 5px 0;
+        text-align: center;
+        width: 100px;
+        font-size: 18px;
+        margin-left: 85px;
+        font-family: Microsoft YaHei;
+      }
+      .login .textTitle{
+        display: none;
+      }
+      #error_message{
+        color: red;
+        margin-top: 5px;
+        margin-left: 20px;
+        width: 280px;
+        height: 20px;
+      }
+      @media screen and (max-width: 480px) {
+        body{
+          min-width: 317px;
+        }
+        .centreBox{
+          width: 315px;
+        }
+        .warp{
+          width: 315px;
+        }
+        .leftImg{
+          display: none;
+        }
+        .leftImg div{
+          background-size: 100% 100%;
+        }
+        .login{
+          width: 317px;
+        }
+        .loginImg{
+          width: 315px !important;
+          margin-top: 10px;
+          height: auto !important;
+        }
+        .login .textTitle{
+          display: block;
+          color: black;
+          font-size: 25px;
+        }
+        .login .textTitle img{
+          float: left;
+          margin-top: 18px;
+          margin-left: 36px;
+          height: 30px;
+        }
+      }

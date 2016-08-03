@@ -1,0 +1,3765 @@
+2016-07-29 14:25:06,946 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020d81b1bd2825
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:25:06,946 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020d81b1bd2825
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:25:06,946 DEBUG: username: None, password: None
+2016-07-29 14:26:09,341 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d078ebfba286e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:09,341 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d078ebfba286e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:09,342 DEBUG: username: None, password: None
+2016-07-29 14:26:11,146 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05050e8bbebb2a73
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:11,146 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05050e8bbebb2a73
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:11,146 DEBUG: username: None, password: None
+2016-07-29 14:26:16,163 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020f0482b7b82688
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:16,163 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020f0482b7b82688
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:26:16,164 DEBUG: username: None, password: None
+2016-07-29 14:47:56,479 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00010f8cbfb33688
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:56,479 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00010f8cbfb33688
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:56,479 DEBUG: username: None, password: None
+2016-07-29 14:47:56,895 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0404028dbcb73a95
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:56,895 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0404028dbcb73a95
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:56,895 DEBUG: username: None, password: None
+2016-07-29 14:47:57,799 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040d008fb7ba35af
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:57,799 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040d008fb7ba35af
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:47:57,800 DEBUG: username: None, password: None
+2016-07-29 14:48:03,885 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040c0e81bbbd32c3
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:48:03,885 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040c0e81bbbd32c3
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:48:03,885 DEBUG: username: binqsoft, password: Password01%21
+2016-07-29 14:48:03,886 DEBUG: visited_this_page is None
+2016-07-29 14:48:46,994 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040c0e81bbbd32c3
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:48:46,995 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040c0e81bbbd32c3
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:48:46,995 DEBUG: username: binqsoft, password: Password01%21
+2016-07-29 14:48:46,995 DEBUG: visited_this_page is None
+2016-07-29 14:48:47,009 INFO: binqsoft try login at 2016-Jul-29 14:48:47
+2016-07-29 14:51:37,651 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030a0387b8b34b95
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:37,651 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030a0387b8b34b95
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:37,652 DEBUG: username: None, password: None
+2016-07-29 14:51:37,945 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01090e84b6b54ba6
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:37,945 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01090e84b6b54ba6
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:37,945 DEBUG: username: None, password: None
+2016-07-29 14:51:38,198 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070e0588bfb644b9
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:38,199 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070e0588bfb644b9
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:38,199 DEBUG: username: None, password: None
+2016-07-29 14:51:53,046 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050f0089b8ba49e5
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:53,046 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050f0089b8ba49e5
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:51:53,046 DEBUG: username: binqsoft, password: Password01%21
+2016-07-29 14:51:53,047 DEBUG: visited_this_page is in the session
+2016-07-29 14:56:51,617 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04070985bbbe6ee2
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:51,617 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04070985bbbe6ee2
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:51,617 DEBUG: username: None, password: None
+2016-07-29 14:56:52,310 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050287bfb76afb
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:52,310 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050287bfb76afb
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:52,311 DEBUG: username: None, password: None
+2016-07-29 14:56:54,332 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020385b8be7c0f
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:54,332 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020385b8be7c0f
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 14:56:54,333 DEBUG: username: None, password: None
+2016-07-29 15:34:42,952 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06090b81b1b87b8e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:42,952 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06090b81b1b87b8e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:42,953 DEBUG: username: None, password: None
+2016-07-29 15:34:43,317 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00030a85b1ba7996
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:43,317 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00030a85b1ba7996
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:43,317 DEBUG: username: None, password: None
+2016-07-29 15:34:43,905 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020e068eb2be73aa
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:43,905 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020e068eb2be73aa
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:43,906 DEBUG: username: None, password: None
+2016-07-29 15:34:49,261 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02040a8eb8b070ce
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:49,261 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02040a8eb8b070ce
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:34:49,262 DEBUG: username: None, password: None
+2016-07-29 15:35:55,972 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06080787bcb4879b
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:55,972 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06080787bcb4879b
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:55,973 DEBUG: username: None, password: None
+2016-07-29 15:35:57,791 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010d028fbcb18ea5
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:57,792 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010d028fbcb18ea5
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:57,792 DEBUG: username: None, password: None
+2016-07-29 15:35:59,086 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0702038bb5b589bd
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:59,086 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0702038bb5b589bd
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:35:59,087 DEBUG: username: None, password: None
+2016-07-29 15:49:19,929 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06030089b3c213fb
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:49:19,929 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06030089b3c213fb
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:49:19,929 DEBUG: username: binqsoft, password: Password01%21
+2016-07-29 15:49:19,930 DEBUG: visited_this_page is None, set it to True
+2016-07-29 15:49:19,943 INFO: authenticate the user binqsoft
+2016-07-29 15:52:14,348 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0102028ab9c22c6d
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,349 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0102028ab9c22c6d
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,349 DEBUG: username: None, password: None
+2016-07-29 15:52:14,675 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050e0c8cbbc9247b
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,675 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050e0c8cbbc9247b
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,676 DEBUG: username: None, password: None
+2016-07-29 15:52:14,880 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040f0a80b2c5238e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,880 DEBUG: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040f0a80b2c5238e
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+2016-07-29 15:52:14,880 DEBUG: username: None, password: None
+2016-07-29 15:56:45,242 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020a0586b2ce29af
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 15:56:45,242 DEBUG: username: None, password: None
+2016-07-29 15:56:45,676 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0006048cb5cd22b8
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 15:56:45,676 DEBUG: username: None, password: None
+2016-07-29 15:56:45,971 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050285b1c229c2
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 15:56:45,972 DEBUG: username: None, password: None
+2016-07-29 16:10:36,032 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070f0884b3c321ed
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 16:10:36,032 DEBUG: username: None, password: None
+2016-07-29 16:10:36,629 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0003058eb0ce23ff
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 16:10:36,629 DEBUG: username: None, password: None
+2016-07-29 16:10:36,989 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02000d86b9c83e0f
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 16:10:36,990 DEBUG: username: None, password: None
+2016-07-29 16:46:27,573 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020b0586b1c9312f
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-07-29 16:46:27,574 DEBUG: username: None, password: None
+2016-07-29 16:46:44,852 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05020e8cbdc13a65
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:44,852 DEBUG: username: None, password: None
+2016-07-29 16:46:44,870 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d0b88b3c63a8a
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:44,870 DEBUG: username: None, password: None
+2016-07-29 16:46:44,876 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03070f80b7c9309c
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:44,877 DEBUG: username: None, password: None
+2016-07-29 16:46:55,101 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070a0389becc443d
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,102 DEBUG: username: None, password: None
+2016-07-29 16:46:55,104 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03070c88bcc54021
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,104 DEBUG: username: None, password: None
+2016-07-29 16:46:55,107 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05090086bac54968
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,107 DEBUG: username: None, password: None
+2016-07-29 16:46:55,109 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04090f83b5c74c5e
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,109 DEBUG: username: None, password: None
+2016-07-29 16:46:55,112 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05020988b6c746cb
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,112 DEBUG: username: None, password: None
+2016-07-29 16:46:55,114 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070c068db4c45af7
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,114 DEBUG: username: None, password: None
+2016-07-29 16:46:55,116 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01000c86b8c26872
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,116 DEBUG: username: None, password: None
+2016-07-29 16:46:55,118 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0503008abaca6c85
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,118 DEBUG: username: None, password: None
+2016-07-29 16:46:55,120 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0502038eb3cd68cb
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,120 DEBUG: username: None, password: None
+2016-07-29 16:46:55,122 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06010e8cbdca6ea6
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,122 DEBUG: username: None, password: None
+2016-07-29 16:46:55,280 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060e0689b8c67437
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,280 DEBUG: username: None, password: None
+2016-07-29 16:46:55,287 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020a0e8bb4c67e4a
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,288 DEBUG: username: None, password: None
+2016-07-29 16:46:55,328 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010a0c86b5c67454
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,328 DEBUG: username: None, password: None
+2016-07-29 16:46:55,465 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05070a80b9c47fbb
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:55,465 DEBUG: username: None, password: None
+2016-07-29 16:46:57,160 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02060688b2c39b15
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:57,160 DEBUG: username: None, password: None
+2016-07-29 16:46:57,164 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02040a8abfc4980b
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:57,164 DEBUG: username: None, password: None
+2016-07-29 16:46:57,190 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02040185b5cb9023
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:46:57,190 DEBUG: username: None, password: None
+2016-07-29 16:47:34,953 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060b0b84becdf798
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:47:34,954 DEBUG: username: None, password: None
+2016-07-29 16:47:34,957 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01070388bbc5f9a1
+usermac: dc:ee:06:f1:42:dc
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.2
+device_type: android-tablet
+username: None
+2016-07-29 16:47:34,957 DEBUG: username: None, password: None
+2016-08-01 12:27:04,145 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03030f8cc7a13edc
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,145 DEBUG: username: None, password: None
+2016-08-01 12:27:04,218 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0107008ac6a14d24
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,219 DEBUG: username: None, password: None
+2016-08-01 12:27:04,221 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07040681c0a3443b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,221 DEBUG: username: None, password: None
+2016-08-01 12:27:04,650 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03000784c8ae44b2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,651 DEBUG: username: None, password: None
+2016-08-01 12:27:04,653 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0103068fc1ac49c2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,653 DEBUG: username: None, password: None
+2016-08-01 12:27:04,905 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0502078ec1ac598b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,906 DEBUG: username: None, password: None
+2016-08-01 12:27:04,972 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030c0187c8ae59ab
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:04,972 DEBUG: username: None, password: None
+2016-08-01 12:27:05,137 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020f0e87cda76329
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:05,137 DEBUG: username: None, password: None
+2016-08-01 12:27:05,369 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01060387cda16850
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:05,370 DEBUG: username: None, password: None
+2016-08-01 12:27:05,378 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040d058ec5a46966
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:05,378 DEBUG: username: None, password: None
+2016-08-01 12:27:05,519 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04090e86c2a57b20
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:05,519 DEBUG: username: None, password: None
+2016-08-01 12:27:06,608 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070b0787c3a886b5
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:06,608 DEBUG: username: None, password: None
+2016-08-01 12:27:06,610 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00070c80c4a998b2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:06,610 DEBUG: username: None, password: None
+2016-08-01 12:27:06,979 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0300058dcca5ac85
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:06,980 DEBUG: username: None, password: None
+2016-08-01 12:27:06,982 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0408078acfa5a2a5
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:06,982 DEBUG: username: None, password: None
+2016-08-01 12:27:07,356 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060c0c80c8a8b268
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:07,356 DEBUG: username: None, password: None
+2016-08-01 12:27:07,490 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06010384c0a3b994
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:07,490 DEBUG: username: None, password: None
+2016-08-01 12:27:08,720 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07080e83cdacc400
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:08,721 DEBUG: username: None, password: None
+2016-08-01 12:27:08,726 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02000d84c9aacd65
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:08,727 DEBUG: username: None, password: None
+2016-08-01 12:27:08,939 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05010484c3a8c67d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:08,939 DEBUG: username: None, password: None
+2016-08-01 12:27:09,079 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05080d85c5a5ce88
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:09,079 DEBUG: username: None, password: None
+2016-08-01 12:27:09,473 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02080f82c2a7de33
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:09,473 DEBUG: username: None, password: None
+2016-08-01 12:27:09,859 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05050c8bc4a2ddad
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:09,860 DEBUG: username: None, password: None
+2016-08-01 12:27:09,897 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03050184cfa0e574
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:09,897 DEBUG: username: None, password: None
+2016-08-01 12:27:10,021 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050b8fc2a7e3e6
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:10,021 DEBUG: username: None, password: None
+2016-08-01 12:27:10,024 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06030c8fc9aceac2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:10,024 DEBUG: username: None, password: None
+2016-08-01 12:27:11,102 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060c0e80c2aff02a
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:11,102 DEBUG: username: None, password: None
+2016-08-01 12:27:11,113 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00010e81ceaaf449
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:11,113 DEBUG: username: None, password: None
+2016-08-01 12:27:11,234 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0708028ec9acf6a5
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:27:11,234 DEBUG: username: None, password: None
+2016-08-01 12:29:33,995 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020f0e87cbb120d8
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:33,995 DEBUG: username: None, password: None
+2016-08-01 12:29:34,104 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04060983c1ba3a4b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,104 DEBUG: username: None, password: None
+2016-08-01 12:29:34,201 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030c0589c7b130db
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,202 DEBUG: username: None, password: None
+2016-08-01 12:29:34,357 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02020986c0be4d23
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,357 DEBUG: username: None, password: None
+2016-08-01 12:29:34,458 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020986ccb54fd0
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,459 DEBUG: username: None, password: None
+2016-08-01 12:29:34,595 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07000c8ecabd5ac7
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,596 DEBUG: username: None, password: None
+2016-08-01 12:29:34,611 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0302088ac0b056b6
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,611 DEBUG: username: None, password: None
+2016-08-01 12:29:34,821 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00050188c6b36855
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,821 DEBUG: username: None, password: None
+2016-08-01 12:29:34,935 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0300078ac6b465e2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:34,935 DEBUG: username: None, password: None
+2016-08-01 12:29:35,054 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01080088c8b87856
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:35,054 DEBUG: username: None, password: None
+2016-08-01 12:29:37,184 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03090687cbb8b9cb
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,185 DEBUG: username: None, password: None
+2016-08-01 12:29:37,400 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0302088cc6bad212
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,400 DEBUG: username: None, password: None
+2016-08-01 12:29:37,436 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000f0d83cebfcfde
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,436 DEBUG: username: None, password: None
+2016-08-01 12:29:37,551 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070c0d8accb1d1eb
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,551 DEBUG: username: None, password: None
+2016-08-01 12:29:37,690 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03030586cdbdeeb4
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,691 DEBUG: username: None, password: None
+2016-08-01 12:29:37,854 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060a0c82c5b1fb1d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:29:37,854 DEBUG: username: None, password: None
+2016-08-01 12:33:25,132 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000e048fc4d55450
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 12:33:25,132 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 12:33:25,132 DEBUG: visited_this_page is None, set it to True
+2016-08-01 12:33:25,134 INFO: authenticate the user binqsoft
+2016-08-01 12:34:55,369 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070b0a82cadf5189
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:34:55,369 DEBUG: username: None, password: None
+2016-08-01 12:34:58,302 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030c0c80c7d45490
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:34:58,302 DEBUG: username: None, password: None
+2016-08-01 12:34:59,023 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03070d8bc5dd58a9
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:34:59,023 DEBUG: username: None, password: None
+2016-08-01 12:35:22,358 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01070b8ac5de51cd
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:35:22,359 DEBUG: username: None, password: None
+2016-08-01 12:39:44,021 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03070684c3dd54d5
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:39:44,021 DEBUG: username: None, password: None
+2016-08-01 12:39:48,765 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04010a86ced354e5
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:39:48,765 DEBUG: username: None, password: None
+2016-08-01 12:39:49,757 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020a0c8bc7d852f9
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:39:49,757 DEBUG: username: None, password: None
+2016-08-01 12:42:52,602 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04050d8acfdc6e19
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:42:52,602 DEBUG: username: None, password: None
+2016-08-01 12:43:01,350 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0407008bc8da6e22
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:43:01,351 DEBUG: username: None, password: None
+2016-08-01 12:43:02,525 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020c0b86cbdd603f
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 12:43:02,525 DEBUG: username: None, password: None
+2016-08-01 12:43:25,899 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01010587c3d37842
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:25,900 DEBUG: username: None, password: None
+2016-08-01 12:43:26,029 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02070389c6de7364
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,030 DEBUG: username: None, password: None
+2016-08-01 12:43:26,108 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000c0f89ced2797b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,109 DEBUG: username: None, password: None
+2016-08-01 12:43:26,253 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050f0184ccdb7b9d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,254 DEBUG: username: None, password: None
+2016-08-01 12:43:26,364 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00050881c1df852d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,365 DEBUG: username: None, password: None
+2016-08-01 12:43:26,368 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05080c8ac6d274fe
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 12:43:26,368 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 12:43:26,368 DEBUG: visited_this_page is in the session
+2016-08-01 12:43:26,474 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0505008cced98881
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,474 DEBUG: username: None, password: None
+2016-08-01 12:43:26,574 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020983c5d785d5
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,574 DEBUG: username: None, password: None
+2016-08-01 12:43:26,720 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050e0784c6d49f5f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:26,721 DEBUG: username: None, password: None
+2016-08-01 12:43:28,547 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050b81ced7ceb7
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:28,547 DEBUG: username: None, password: None
+2016-08-01 12:43:28,769 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01020e86c0d5e5fc
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:28,769 DEBUG: username: None, password: None
+2016-08-01 12:43:29,205 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0106048dc0daff92
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:29,205 DEBUG: username: None, password: None
+2016-08-01 12:43:29,558 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020b028fc7e909ab
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:29,558 DEBUG: username: None, password: None
+2016-08-01 12:43:30,941 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06030e84c1eb40bf
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:30,941 DEBUG: username: None, password: None
+2016-08-01 12:43:31,091 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070b0588c1e55225
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,091 DEBUG: username: None, password: None
+2016-08-01 12:43:31,314 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04070a8bccee5efd
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,315 DEBUG: username: None, password: None
+2016-08-01 12:43:31,318 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02090788c1ea6f46
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,318 DEBUG: username: None, password: None
+2016-08-01 12:43:31,404 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04090281cfe57727
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,404 DEBUG: username: None, password: None
+2016-08-01 12:43:31,502 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02010f81c4ee7fef
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,502 DEBUG: username: None, password: None
+2016-08-01 12:43:31,641 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050384ccef8a3e
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,641 DEBUG: username: None, password: None
+2016-08-01 12:43:31,803 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0307078acfef8def
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,803 DEBUG: username: None, password: None
+2016-08-01 12:43:31,850 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010e0284cdee93bd
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,850 DEBUG: username: None, password: None
+2016-08-01 12:43:31,922 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d0c82c5e2af2f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:31,922 DEBUG: username: None, password: None
+2016-08-01 12:43:32,001 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04040f86c9e1ae72
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:32,001 DEBUG: username: None, password: None
+2016-08-01 12:43:32,108 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000c0186c7ecaae7
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:32,108 DEBUG: username: None, password: None
+2016-08-01 12:43:38,324 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03000681c6fa3c8e
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:38,325 DEBUG: username: None, password: None
+2016-08-01 12:43:38,482 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030f0981c9fa4b8f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:38,482 DEBUG: username: None, password: None
+2016-08-01 12:43:38,664 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060d0681c4f14ae8
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:38,664 DEBUG: username: None, password: None
+2016-08-01 12:43:38,810 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00080783c1f9586f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:43:38,810 DEBUG: username: None, password: None
+2016-08-01 12:44:08,009 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020b0086c4fb7196
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,009 DEBUG: username: None, password: None
+2016-08-01 12:44:08,206 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000d0a86c9f8863b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,206 DEBUG: username: None, password: None
+2016-08-01 12:44:08,300 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040d0886c4f09626
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,300 DEBUG: username: None, password: None
+2016-08-01 12:44:08,365 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d098accfc909c
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,365 DEBUG: username: None, password: None
+2016-08-01 12:44:08,443 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01080083c8f498ff
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,443 DEBUG: username: None, password: None
+2016-08-01 12:44:08,503 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030c0089ccf1ae47
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:44:08,504 DEBUG: username: None, password: None
+2016-08-01 12:51:53,243 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050d018fd50a281a
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:53,244 DEBUG: username: None, password: None
+2016-08-01 12:51:54,886 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050e028fda0a5944
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:54,886 DEBUG: username: None, password: None
+2016-08-01 12:51:55,010 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05080d8ade0c5e98
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,010 DEBUG: username: None, password: None
+2016-08-01 12:51:55,318 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03030082da0365b2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,319 DEBUG: username: None, password: None
+2016-08-01 12:51:55,323 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04040a81d6006523
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,323 DEBUG: username: None, password: None
+2016-08-01 12:51:55,491 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050b8ad6017ac3
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,491 DEBUG: username: None, password: None
+2016-08-01 12:51:55,619 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020c0a82d10d82cb
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,620 DEBUG: username: None, password: None
+2016-08-01 12:51:55,655 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0702008bde029312
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,655 DEBUG: username: None, password: None
+2016-08-01 12:51:55,726 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03060f82df039b5e
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,727 DEBUG: username: None, password: None
+2016-08-01 12:51:55,789 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040a0686d209989f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,789 DEBUG: username: None, password: None
+2016-08-01 12:51:55,855 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06040f84d40995e0
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:51:55,855 DEBUG: username: None, password: None
+2016-08-01 12:53:29,357 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04020c8bda03c385
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 12:53:29,357 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 12:53:29,357 DEBUG: visited_this_page is in the session
+2016-08-01 12:53:31,200 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0202028fd10eef0c
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,201 DEBUG: username: None, password: None
+2016-08-01 12:53:31,314 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00020b8ede0ceb97
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,315 DEBUG: username: None, password: None
+2016-08-01 12:53:31,483 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070c0588d601f343
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,483 DEBUG: username: None, password: None
+2016-08-01 12:53:31,599 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03060382de10081b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,599 DEBUG: username: None, password: None
+2016-08-01 12:53:31,749 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0500048ed21d00b2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,750 DEBUG: username: None, password: None
+2016-08-01 12:53:31,814 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02010380d0111d49
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,815 DEBUG: username: None, password: None
+2016-08-01 12:53:31,898 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04060187d51c11bf
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,899 DEBUG: username: None, password: None
+2016-08-01 12:53:31,981 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01020e89d81a2a37
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:31,981 DEBUG: username: None, password: None
+2016-08-01 12:53:32,042 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0604088fdc112886
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:32,042 DEBUG: username: None, password: None
+2016-08-01 12:53:34,267 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000b0b81d4106ce3
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,267 DEBUG: username: None, password: None
+2016-08-01 12:53:34,398 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06040a8ad6137038
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,398 DEBUG: username: None, password: None
+2016-08-01 12:53:34,572 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0708018dd0127cb1
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,573 DEBUG: username: None, password: None
+2016-08-01 12:53:34,663 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0307088fd8148896
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,663 DEBUG: username: None, password: None
+2016-08-01 12:53:34,753 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07080f84d319942d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,753 DEBUG: username: None, password: None
+2016-08-01 12:53:34,816 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01080787d71d9489
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,816 DEBUG: username: None, password: None
+2016-08-01 12:53:34,875 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000c0985de1f99d9
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 12:53:34,875 DEBUG: username: None, password: None
+2016-08-01 12:59:02,341 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03040081d21edc8a
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 12:59:02,342 DEBUG: username: None, password: None
+2016-08-01 12:59:02,345 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02070b84da1dd8df
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 12:59:02,345 DEBUG: username: None, password: None
+2016-08-01 13:01:38,434 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04030086dc223f63
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:01:38,434 DEBUG: username: None, password: None
+2016-08-01 13:01:39,242 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020c0b80da254e18
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:01:39,242 DEBUG: username: None, password: None
+2016-08-01 13:01:41,312 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01040989d42b4e7b
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:01:41,313 DEBUG: username: None, password: None
+2016-08-01 13:01:43,358 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020c80d5244db5
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:01:43,358 DEBUG: username: None, password: None
+2016-08-01 13:07:05,684 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06070a89dc2f9275
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:05,684 DEBUG: username: None, password: None
+2016-08-01 13:07:06,144 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06070a80da2a9cba
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:06,145 DEBUG: username: None, password: None
+2016-08-01 13:07:06,655 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0200048bd722ab36
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:06,656 DEBUG: username: None, password: None
+2016-08-01 13:07:07,153 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030d0d82db27af65
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:07,154 DEBUG: username: None, password: None
+2016-08-01 13:07:08,322 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0708018bd725be97
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,322 DEBUG: username: None, password: None
+2016-08-01 13:07:08,325 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050d89d726ce7c
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,325 DEBUG: username: None, password: None
+2016-08-01 13:07:08,480 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0402068fd62fdb52
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,480 DEBUG: username: None, password: None
+2016-08-01 13:07:08,646 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070f0381d82fe46e
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,647 DEBUG: username: None, password: None
+2016-08-01 13:07:08,729 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020b8bde25e7bf
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,729 DEBUG: username: None, password: None
+2016-08-01 13:07:08,802 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04000288dc22e3e8
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:08,802 DEBUG: username: None, password: None
+2016-08-01 13:07:10,885 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01040987d8380abd
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:10,886 DEBUG: username: None, password: None
+2016-08-01 13:07:11,205 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02090085d93d228b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,205 DEBUG: username: None, password: None
+2016-08-01 13:07:11,284 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02020386d73f27ca
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,284 DEBUG: username: None, password: None
+2016-08-01 13:07:11,436 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050c0f89da37330f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,436 DEBUG: username: None, password: None
+2016-08-01 13:07:11,615 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050e0b81d33135f3
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,615 DEBUG: username: None, password: None
+2016-08-01 13:07:11,640 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04020b85d0324e74
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,640 DEBUG: username: None, password: None
+2016-08-01 13:07:11,708 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050688d73d45fe
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,708 DEBUG: username: None, password: None
+2016-08-01 13:07:11,778 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070e098ed4395154
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,778 DEBUG: username: None, password: None
+2016-08-01 13:07:11,874 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03010d85de3b58ab
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:07:11,874 DEBUG: username: None, password: None
+2016-08-01 13:08:59,084 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06090e8fdd3c7758
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:08:59,085 DEBUG: username: None, password: None
+2016-08-01 13:08:59,320 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070f048fd13d71f8
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:08:59,320 DEBUG: username: None, password: None
+2016-08-01 13:08:59,639 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020681df3b9131
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:08:59,639 DEBUG: username: None, password: None
+2016-08-01 13:08:59,729 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060f0f8ad6379869
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 13:08:59,729 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:08:59,729 DEBUG: visited_this_page is in the session
+2016-08-01 13:08:59,851 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05060886d93998c4
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:08:59,851 DEBUG: username: None, password: None
+2016-08-01 13:08:59,988 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040c088ad434a203
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:08:59,989 DEBUG: username: None, password: None
+2016-08-01 13:09:00,189 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020184de35a064
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:00,189 DEBUG: username: None, password: None
+2016-08-01 13:09:00,875 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05000c8cd03dcb32
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:00,875 DEBUG: username: None, password: None
+2016-08-01 13:09:01,008 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 00090280df34cabf
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:01,008 DEBUG: username: None, password: None
+2016-08-01 13:09:01,147 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010d078cdc36df18
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:01,147 DEBUG: username: None, password: None
+2016-08-01 13:09:01,245 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02000a85d939df79
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:01,246 DEBUG: username: None, password: None
+2016-08-01 13:09:04,140 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04030b89d031ff41
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:04,140 DEBUG: username: None, password: None
+2016-08-01 13:09:04,234 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060a0980d939f0b4
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:04,235 DEBUG: username: None, password: None
+2016-08-01 13:09:05,302 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04090484d04208c0
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,302 DEBUG: username: None, password: None
+2016-08-01 13:09:05,305 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020b0d8ad2452b82
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,306 DEBUG: username: None, password: None
+2016-08-01 13:09:05,308 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070e058bd9423cdc
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,308 DEBUG: username: None, password: None
+2016-08-01 13:09:05,425 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06050d86d5484778
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,425 DEBUG: username: None, password: None
+2016-08-01 13:09:05,519 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01080a84dc4b43fb
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,519 DEBUG: username: None, password: None
+2016-08-01 13:09:05,629 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01070f84df45553f
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:09:05,629 DEBUG: username: None, password: None
+2016-08-01 13:09:59,703 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07050f87d1457862
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:09:59,703 DEBUG: username: None, password: None
+2016-08-01 13:10:01,959 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03090580d7437de7
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:10:01,959 DEBUG: username: None, password: None
+2016-08-01 13:10:03,924 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04030f8ed54b8949
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:10:03,924 DEBUG: username: None, password: None
+2016-08-01 13:10:05,637 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020f0c80de4187b5
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:10:05,638 DEBUG: username: None, password: None
+2016-08-01 13:10:10,728 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0401048fd24e918e
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:10:10,729 DEBUG: username: None, password: None
+2016-08-01 13:10:13,958 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06020c81d64890b4
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:10:13,959 DEBUG: username: None, password: None
+2016-08-01 13:10:48,952 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04030486d94da4d1
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:10:48,952 DEBUG: username: None, password: None
+2016-08-01 13:10:51,713 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020b038add4ab122
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:10:51,714 DEBUG: username: None, password: None
+2016-08-01 13:10:53,024 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0705008cdf4ab632
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:10:53,024 DEBUG: username: None, password: None
+2016-08-01 13:12:49,027 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04030580db4aba78
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:12:49,028 DEBUG: username: None, password: None
+2016-08-01 13:12:49,674 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03050e80d043b98b
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:12:49,675 DEBUG: username: None, password: None
+2016-08-01 13:12:50,627 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02080d80da4bb39d
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:12:50,627 DEBUG: username: None, password: None
+2016-08-01 13:13:26,775 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020e058ad047c05c
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:26,776 DEBUG: username: None, password: None
+2016-08-01 13:13:26,779 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0707028ad243cdd6
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:26,779 DEBUG: username: None, password: None
+2016-08-01 13:13:26,804 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010c038cd849d21b
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 13:13:26,804 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:13:26,804 DEBUG: visited_this_page is in the session
+2016-08-01 13:13:26,947 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0507068cd84ee338
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:26,947 DEBUG: username: None, password: None
+2016-08-01 13:13:27,080 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060a0c8dd445ef7d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,080 DEBUG: username: None, password: None
+2016-08-01 13:13:27,291 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03090981d443e4c4
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,292 DEBUG: username: None, password: None
+2016-08-01 13:13:27,423 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02030981da4cf4ba
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,423 DEBUG: username: None, password: None
+2016-08-01 13:13:27,774 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05070a82d95202dd
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,775 DEBUG: username: None, password: None
+2016-08-01 13:13:27,882 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0606048fdc561e44
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,882 DEBUG: username: None, password: None
+2016-08-01 13:13:27,990 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070a0a8fd95d1254
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:27,991 DEBUG: username: None, password: None
+2016-08-01 13:13:29,797 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01010f85da5e2973
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:29,797 DEBUG: username: None, password: None
+2016-08-01 13:13:29,914 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030e0188dd5429d0
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:29,915 DEBUG: username: None, password: None
+2016-08-01 13:13:30,275 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0402058ad55736a1
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:30,275 DEBUG: username: None, password: None
+2016-08-01 13:13:30,449 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07070382dd5d5a16
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:30,449 DEBUG: username: None, password: None
+2016-08-01 13:13:30,751 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0206018dde505bb2
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:30,751 DEBUG: username: None, password: None
+2016-08-01 13:13:30,969 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03050d8ada5d742d
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:13:30,969 DEBUG: username: None, password: None
+2016-08-01 13:13:53,641 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01030a8fdb5d8124
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:13:53,641 DEBUG: username: None, password: None
+2016-08-01 13:13:53,649 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02080e86d85c8519
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:13:53,649 DEBUG: username: None, password: None
+2016-08-01 13:13:54,571 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0306068cda50844e
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:13:54,571 DEBUG: username: None, password: None
+2016-08-01 13:13:56,198 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03060685db568766
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:13:56,198 DEBUG: username: None, password: None
+2016-08-01 13:16:18,969 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04000086d754942f
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:18,969 DEBUG: username: None, password: None
+2016-08-01 13:16:19,273 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000f098fd7528cf0
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:19,273 DEBUG: username: None, password: None
+2016-08-01 13:16:20,282 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000d0d83d7588ed0
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:20,282 DEBUG: username: None, password: None
+2016-08-01 13:16:20,843 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05020e8ed05fad22
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:20,844 DEBUG: username: None, password: None
+2016-08-01 13:16:21,735 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07030180d7549b40
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:21,735 DEBUG: username: None, password: None
+2016-08-01 13:16:23,073 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0708068bd05dac37
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:23,074 DEBUG: username: None, password: None
+2016-08-01 13:16:32,054 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01070f8cdd56b956
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:32,054 DEBUG: username: None, password: None
+2016-08-01 13:16:34,463 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030b0e8cdb5cbc82
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:34,464 DEBUG: username: None, password: None
+2016-08-01 13:16:40,355 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010b098bdf57cdd4
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:40,355 DEBUG: username: None, password: None
+2016-08-01 13:16:43,324 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060d0788d25bd617
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:43,324 DEBUG: username: None, password: None
+2016-08-01 13:16:44,256 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0203038ed159de5a
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:44,256 DEBUG: username: None, password: None
+2016-08-01 13:16:44,259 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03030a8ad65ad262
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:44,259 DEBUG: username: None, password: None
+2016-08-01 13:16:44,736 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04010681db5edc70
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:16:44,736 DEBUG: username: None, password: None
+2016-08-01 13:38:07,527 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'040e0d80db8eddb3'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:38:07,528 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 040e0d80db8eddb3
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:38:07,528 DEBUG: username: None, password: None
+2016-08-01 13:38:48,155 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-01 13:38:48,156 INFO: 
+post_url: None
+magic: None
+usermac: None
+apmac: None
+apip: None
+userip: None
+device_type: None
+username: binqsoft
+2016-08-01 13:38:48,156 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:38:48,156 DEBUG: visited_this_page is None, set it to True
+2016-08-01 13:38:48,159 INFO: authenticate the user binqsoft
+2016-08-01 13:39:18,677 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'03070487d5970f56'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:39:18,677 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03070487d5970f56
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:39:18,677 DEBUG: username: None, password: None
+2016-08-01 13:40:18,253 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'05020c8dd7951a7e'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:40:18,253 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05020c8dd7951a7e
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 13:40:18,253 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:40:18,254 DEBUG: visited_this_page is in the session
+2016-08-01 13:40:22,611 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-01 13:40:22,612 INFO: 
+post_url: None
+magic: None
+usermac: None
+apmac: None
+apip: None
+userip: None
+device_type: None
+username: binqsoft
+2016-08-01 13:40:22,612 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:40:22,612 DEBUG: visited_this_page is in the session
+2016-08-01 13:40:35,816 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'01090c82d392233a'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:40:35,816 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01090c82d392233a
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 13:40:35,817 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:40:35,817 DEBUG: visited_this_page is in the session
+2016-08-01 13:40:50,936 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-01 13:40:50,936 INFO: 
+post_url: None
+magic: None
+usermac: None
+apmac: None
+apip: None
+userip: None
+device_type: None
+username: binqsoft
+2016-08-01 13:40:50,936 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:40:50,936 DEBUG: visited_this_page is in the session
+2016-08-01 13:41:18,836 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'060a0988d9984d0c'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:41:18,836 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060a0988d9984d0c
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:41:18,836 DEBUG: username: None, password: None
+2016-08-01 13:41:18,839 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0004038ade9433f2'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:41:18,840 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0004038ade9433f2
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:41:18,840 DEBUG: username: None, password: None
+2016-08-01 13:41:19,479 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'01080b84d1964814'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:41:19,479 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01080b84d1964814
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:41:19,479 DEBUG: username: None, password: None
+2016-08-01 13:41:19,532 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'010d0f8dd196462c'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:41:19,532 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 010d0f8dd196462c
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:41:19,532 DEBUG: username: None, password: None
+2016-08-01 13:42:03,976 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'06010b8ad7945523'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:42:03,977 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06010b8ad7945523
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: binqsoft
+2016-08-01 13:42:03,977 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:42:03,977 DEBUG: visited_this_page is in the session
+2016-08-01 13:42:19,964 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-01 13:42:19,965 INFO: 
+post_url: None
+magic: None
+usermac: None
+apmac: None
+apip: None
+userip: None
+device_type: None
+username: binqsoft
+2016-08-01 13:42:19,965 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:42:19,965 DEBUG: visited_this_page is in the session
+2016-08-01 13:42:27,976 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'02000a81d0946a16'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:42:27,976 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02000a81d0946a16
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:42:27,976 DEBUG: username: None, password: None
+2016-08-01 13:42:28,237 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0709048dda946325'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:42:28,238 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0709048dda946325
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:42:28,238 DEBUG: username: None, password: None
+2016-08-01 13:42:33,820 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'050d0c87d8966840'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:42:33,820 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050d0c87d8966840
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:42:33,821 DEBUG: username: None, password: None
+2016-08-01 13:43:18,564 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'0208058ad89c95f4'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:18,565 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0208058ad89c95f4
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: None
+2016-08-01 13:43:18,565 DEBUG: username: None, password: None
+2016-08-01 13:43:23,746 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'000b0283d896b301'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:23,747 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000b0283d896b301
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:43:23,747 DEBUG: username: None, password: None
+2016-08-01 13:43:23,927 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'000f068cd69ab650'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:23,928 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000f068cd69ab650
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:43:23,928 DEBUG: username: None, password: None
+2016-08-01 13:43:24,027 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'030e0680da9ab0bf'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:24,028 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030e0680da9ab0bf
+usermac: b4:0b:44:0d:72:b9
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.3
+device_type: android-tablet
+username: None
+2016-08-01 13:43:24,028 DEBUG: username: None, password: None
+2016-08-01 13:43:37,719 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'03030a85d392d91e'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:37,719 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03030a85d392d91e
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: binqsoft
+2016-08-01 13:43:37,720 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:43:37,720 DEBUG: visited_this_page is None, set it to True
+2016-08-01 13:43:37,722 INFO: authenticate the user binqsoft
+2016-08-01 13:43:37,974 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'07020d82d99cd423'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:37,975 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07020d82d99cd423
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: binqsoft
+2016-08-01 13:43:37,975 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:43:37,975 DEBUG: visited_this_page is None, set it to True
+2016-08-01 13:43:37,977 INFO: authenticate the user binqsoft
+2016-08-01 13:43:37,988 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'050b0089d59cd533'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:37,989 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050b0089d59cd533
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: binqsoft
+2016-08-01 13:43:37,989 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:43:37,989 DEBUG: visited_this_page is in the session
+2016-08-01 13:43:39,945 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'060a068adf96d06a'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:39,946 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060a068adf96d06a
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: binqsoft
+2016-08-01 13:43:39,946 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:43:39,946 DEBUG: visited_this_page is in the session
+2016-08-01 13:43:43,492 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'050b0489d29ad88a'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:43,492 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 050b0489d29ad88a
+usermac: 78:d7:5f:04:00:78
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.6
+device_type: iphone
+username: binqsoft
+2016-08-01 13:43:43,492 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:43:43,493 DEBUG: visited_this_page is in the session
+2016-08-01 13:43:58,964 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'05080483da9edaa9'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:43:58,965 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 05080483da9edaa9
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:43:58,965 DEBUG: username: None, password: None
+2016-08-01 13:44:29,046 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0107068ad892ef69'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:44:29,046 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0107068ad892ef69
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:44:29,047 DEBUG: username: None, password: None
+2016-08-01 13:45:33,975 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'06010c8bdc9df8d8'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:33,975 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 06010c8bdc9df8d8
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:45:33,976 DEBUG: username: None, password: None
+2016-08-01 13:45:33,978 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0608068ed4a70d21'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:33,978 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 0608068ed4a70d21
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:45:33,978 DEBUG: username: None, password: None
+2016-08-01 13:45:36,928 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'03020181d2a7004e'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:36,928 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 03020181d2a7004e
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:45:36,928 DEBUG: username: None, password: None
+2016-08-01 13:45:37,861 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'10:40:f3:84:42:5a'), ('device_type', u'mac'), ('userip', u'192.168.10.23'), ('magic', u'070f0e85d7ad0186'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:37,862 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 070f0e85d7ad0186
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-08-01 13:45:37,862 DEBUG: username: None, password: None
+2016-08-01 13:45:41,525 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'10:40:f3:84:42:5a'), ('device_type', u'mac'), ('userip', u'192.168.10.23'), ('magic', u'060e0c87d3a808bb'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:41,526 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 060e0c87d3a808bb
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-08-01 13:45:41,526 DEBUG: username: None, password: None
+2016-08-01 13:45:42,517 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'10:40:f3:84:42:5a'), ('device_type', u'mac'), ('userip', u'192.168.10.23'), ('magic', u'030f0887dbac08c0'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:45:42,517 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 030f0887dbac08c0
+usermac: 10:40:f3:84:42:5a
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.23
+device_type: mac
+username: None
+2016-08-01 13:45:42,517 DEBUG: username: None, password: None
+2016-08-01 13:46:18,360 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'04060d84dca71bc4'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:46:18,360 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 04060d84dca71bc4
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:46:18,360 DEBUG: username: None, password: None
+2016-08-01 13:46:18,363 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'020c0b8cd8ad19d3'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:46:18,363 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 020c0b8cd8ad19d3
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:46:18,364 DEBUG: username: None, password: None
+2016-08-01 13:46:24,276 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'01040a8dd5af286e'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:46:24,276 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01040a8dd5af286e
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:46:24,276 DEBUG: username: None, password: None
+2016-08-01 13:46:25,562 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'000b088edea52084'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:46:25,562 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 000b088edea52084
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:46:25,562 DEBUG: username: None, password: None
+2016-08-01 13:49:36,532 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'02020e83dba54cd9'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:49:36,533 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 02020e83dba54cd9
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:49:36,533 DEBUG: username: None, password: None
+2016-08-01 13:50:21,191 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07060f84dcae638e'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:50:21,192 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07060f84dcae638e
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:50:21,192 DEBUG: username: None, password: None
+2016-08-01 13:51:52,582 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07060187d2af7fc2'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:51:52,582 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07060187d2af7fc2
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:51:52,582 DEBUG: username: None, password: None
+2016-08-01 13:52:10,138 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07060187d2af7fc2'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:52:10,138 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07060187d2af7fc2
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:52:10,138 DEBUG: username: None, password: None
+2016-08-01 13:52:23,773 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07020187deaf8884'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:52:23,773 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 07020187deaf8884
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:52:23,774 DEBUG: username: None, password: None
+2016-08-01 13:52:36,801 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'01050b86d3ab9613'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:52:36,802 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050b86d3ab9613
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:52:36,802 DEBUG: username: None, password: None
+2016-08-01 13:52:54,102 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'01050b86d3ab9613'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:52:54,102 INFO: 
+post_url: http://192.168.10.1:1000/fgtauth
+magic: 01050b86d3ab9613
+usermac: 38:bc:1a:98:24:f1
+apmac: 08:5b:0e:ec:74:be
+apip: 192.168.0.181
+userip: 192.168.10.8
+device_type: android-tablet
+username: None
+2016-08-01 13:52:54,103 DEBUG: username: None, password: None
+2016-08-01 13:55:09,679 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'b4:0b:44:0d:72:b9'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.3'), ('magic', u'04000588daa5b07d'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:55:09,679 DEBUG: Cookie: session=eyJ2aXNpdGVkX3RoaXNfcGFnZSI6dHJ1ZX0.CoBx6A.9xOXkjnke3mDRGe9KsFMGDZpo7s; username=binqsoft; password=aaa
+Content-Length: 
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM705 Build/SANFRANCISCO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.11 Mobile Safari/537.36
+Connection: keep-alive
+Host: 192.168.9.9
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8
+Content-Type: 
+Accept-Encoding: gzip, deflate, sdch
+
+
+2016-08-01 13:55:09,680 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:55:09,680 DEBUG: visited_this_page is in the session
+2016-08-01 13:55:39,129 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-01 13:55:39,130 DEBUG: Referer: http://192.168.9.9/?login&post=http://192.168.10.1:1000/fgtauth&magic=04000588daa5b07d&usermac=b4:0b:44:0d:72:b9&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.3&device_type=android-tablet
+Content-Length: 
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM705 Build/SANFRANCISCO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.11 Mobile Safari/537.36
+Connection: keep-alive
+Cookie: session=eyJ2aXNpdGVkX3RoaXNfcGFnZSI6dHJ1ZX0.CoBx6A.9xOXkjnke3mDRGe9KsFMGDZpo7s; username=binqsoft; password=aaa
+Host: 192.168.9.9
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8
+Content-Type: 
+Accept-Encoding: gzip, deflate, sdch
+
+
+2016-08-01 13:55:39,130 DEBUG: username: binqsoft, password: aaa
+2016-08-01 13:55:39,130 DEBUG: visited_this_page is in the session
+2016-08-01 13:57:14,660 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07040e8dd5a4dbce'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:14,660 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:57:14,661 DEBUG: username: None, password: None
+2016-08-01 13:57:14,663 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'050b0886d4a6d801'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:14,663 DEBUG: Content-Length: 
+User-Agent: xiami mobile/Android 5.6.2 build120
+Connection: close
+Host: 192.168.9.9
+Accept-Language: zh-CN,zh;
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:57:14,664 DEBUG: username: None, password: None
+2016-08-01 13:57:15,240 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0205028ed8a8d6d0'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:15,240 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:57:15,241 DEBUG: username: None, password: None
+2016-08-01 13:57:15,436 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'10:40:f3:84:42:5a'), ('device_type', u'mac'), ('userip', u'192.168.10.23'), ('magic', u'05030387d5a2e539'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:15,436 DEBUG: Content-Length: 
+User-Agent: CaptiveNetworkSupport-261.1.2 wispr
+Connection: close
+Host: 192.168.9.9
+Content-Type: 
+
+
+2016-08-01 13:57:15,437 DEBUG: username: None, password: None
+2016-08-01 13:57:17,795 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'10:40:f3:84:42:5a'), ('device_type', u'mac'), ('userip', u'192.168.10.23'), ('magic', u'070f0c85dca9e375'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:17,795 DEBUG: Content-Length: 
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko)
+Connection: keep-alive
+Host: 192.168.9.9
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn
+Content-Type: 
+Accept-Encoding: gzip, deflate
+
+
+2016-08-01 13:57:17,796 DEBUG: username: None, password: None
+2016-08-01 13:57:22,770 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07040e8dd5a4dbce'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:57:22,770 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:57:22,771 DEBUG: username: None, password: None
+2016-08-01 13:58:08,393 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'03000386d8a8ef65'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:58:08,394 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:58:08,394 DEBUG: username: None, password: None
+2016-08-01 13:58:08,396 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'0205028ed8a8d6d0'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:58:08,397 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:58:08,397 DEBUG: username: None, password: None
+2016-08-01 13:58:08,399 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'07040e8dd5a4dbce'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:58:08,400 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:58:08,400 DEBUG: username: None, password: None
+2016-08-01 13:58:08,402 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'38:bc:1a:98:24:f1'), ('device_type', u'android-tablet'), ('userip', u'192.168.10.8'), ('magic', u'03000386d8a8ef65'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:58:08,402 DEBUG: Content-Length: 
+User-Agent: Dalvik/1.6.0 (Linux; U; Android 4.4.4; M355 Build/KTU84P)
+Connection: keep-alive
+Host: 192.168.9.9
+Content-Type: 
+Accept-Encoding: gzip
+
+
+2016-08-01 13:58:08,403 DEBUG: username: None, password: None
+2016-08-01 13:58:08,405 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'04060a8cdaa5e3e4'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-01 13:58:08,405 DEBUG: Cookie: password=Password01%21; session=eyJ2aXNpdGVkX3RoaXNfcGFnZSI6dHJ1ZX0.CoBzCQ.9gx5QcbdR8DOb6zaQmy7ntmrd-U; username=binqsoft
+Content-Length: 
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+Connection: keep-alive
+Referer: http://cn.bing.com/
+Host: 192.168.9.9
+Accept: */*
+Accept-Language: zh-cn
+Content-Type: 
+Accept-Encoding: gzip, deflate
+
+
+2016-08-01 13:58:08,406 DEBUG: username: binqsoft, password: Password01%21
+2016-08-01 13:58:08,406 DEBUG: visited_this_page is in the session
+2016-08-03 14:01:56,449 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 14:01:56,450 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 14:03:43,140 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 14:03:43,140 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 14:04:07,707 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 14:04:07,708 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:07:34,534 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:07:34,535 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:09:57,352 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:09:57,353 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:10:00,903 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'05010d83e44e49ba'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 15:10:00,903 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=05010d83e44e49ba&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 15:10:02,232 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'060e088fe34e30e1'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 15:10:02,233 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=060e088fe34e30e1&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 15:10:02,242 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'01030889e54b4b65'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 15:10:02,242 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=01030889e54b4b65&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 15:11:19,841 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:11:19,841 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:12:12,438 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:12:12,438 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:13:23,980 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:13:23,980 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:16:13,922 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:16:13,922 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:17:05,635 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:17:05,635 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:17:07,914 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:17:07,914 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:17:46,819 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:17:46,819 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:18:36,742 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:18:36,742 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:19:35,850 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:19:35,850 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:19:38,417 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:19:38,417 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:20:09,639 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:20:09,639 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:21:47,527 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:21:47,527 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:21:55,460 INFO: auth: 
+2016-08-03 15:22:50,904 INFO: auth: 
+2016-08-03 15:22:54,084 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:22:54,084 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:23:01,267 INFO: auth: 
+2016-08-03 15:23:49,687 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:23:49,688 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:23:51,430 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:23:51,431 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:23:59,861 INFO: auth: 
+2016-08-03 15:25:20,424 INFO: auth: 
+2016-08-03 15:29:57,583 INFO: auth: 
+2016-08-03 15:30:09,462 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:30:09,462 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:30:16,623 INFO: auth: 
+2016-08-03 15:35:41,964 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:35:41,965 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:35:50,094 INFO: auth: 
+2016-08-03 15:36:54,226 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:36:54,226 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:37:01,029 INFO: auth: 
+2016-08-03 15:37:01,030 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:37:40,733 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:37:40,734 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:38:32,392 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:38:32,392 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:38:34,434 INFO: auth: 
+2016-08-03 15:38:34,435 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:38:34,502 INFO: auth: 
+2016-08-03 15:38:54,474 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:38:54,474 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:39:01,480 INFO: auth: 
+2016-08-03 15:39:01,481 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:39:01,550 INFO: auth: 
+2016-08-03 15:39:07,459 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:39:07,459 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:39:55,982 INFO: auth: 
+2016-08-03 15:39:55,983 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:40:43,101 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:40:43,101 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:40:44,879 INFO: auth: 
+2016-08-03 15:40:44,879 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:42:44,905 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:42:44,905 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:42:46,464 INFO: auth: 
+2016-08-03 15:42:46,465 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:43:56,401 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:43:56,401 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:44:01,989 INFO: auth: 
+2016-08-03 15:44:01,990 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:45:02,064 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:45:02,064 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:45:06,832 INFO: auth: 
+2016-08-03 15:45:06,833 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:46:24,415 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 15:46:24,415 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:46:28,494 INFO: auth: 
+2016-08-03 15:46:28,495 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:47:50,475 INFO: auth: 
+2016-08-03 15:47:50,476 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:48:32,728 INFO: auth: 
+2016-08-03 15:48:32,729 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:54:38,422 INFO: auth: 
+2016-08-03 15:54:38,423 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:55:18,345 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://192.168.9.9:1000/fgtauth')])
+2016-08-03 15:55:18,345 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 15:55:42,362 INFO: auth: 
+2016-08-03 15:55:42,362 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:57:21,205 INFO: auth: 
+2016-08-03 15:57:21,206 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:57:54,409 INFO: auth: 
+2016-08-03 15:57:54,410 INFO: username: binqsoft, password: 11 chars
+2016-08-03 15:58:23,238 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://192.168.9.9:1000/fgtauth')])
+2016-08-03 15:58:23,238 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:00:58,886 INFO: auth: 
+2016-08-03 16:00:58,886 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:01:22,148 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'03040e89e64932f2'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,149 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=03040e89e64932f2&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:22,254 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'0500008fe84a4828'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,254 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=0500008fe84a4828&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:22,281 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'030d008beb444189'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,281 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=030d008beb444189&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:22,290 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'030e0c8ced4e5529'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,290 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=030e0c8ced4e5529&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:22,345 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'0707008aef484701'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,345 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=0707008aef484701&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:22,743 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'020a048ced445808'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:22,743 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=020a048ced445808&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:25,603 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'020b038ced4d4d7c'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:25,603 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=020b038ced4d4d7c&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:01:25,608 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'78:d7:5f:04:00:78'), ('device_type', u'iphone'), ('userip', u'192.168.10.6'), ('magic', u'040d0886e04a41c8'), ('login', u''), ('post', u'http://192.168.10.1:1000/fgtauth')])
+2016-08-03 16:01:25,608 INFO: handle_login: login&post=http://192.168.10.1:1000/fgtauth&magic=040d0886e04a41c8&usermac=78:d7:5f:04:00:78&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.6&device_type=iphone
+2016-08-03 16:04:10,789 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://192.168.9.9:1000/fgtauth')])
+2016-08-03 16:04:10,789 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:04:19,706 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:04:19,706 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:04:21,612 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:04:21,613 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:04:25,111 INFO: auth: 
+2016-08-03 16:04:25,112 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:04:46,863 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:04:46,864 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:05:29,270 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:05:29,270 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:05:41,464 INFO: auth: 
+2016-08-03 16:05:41,465 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:10:12,764 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:10:12,765 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:10:17,241 INFO: auth: 
+2016-08-03 16:10:17,242 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:13:31,253 INFO: auth: 
+2016-08-03 16:13:31,253 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:13:31,254 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:13:38,496 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:13:38,496 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:19:37,300 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:19:37,300 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:20:45,945 INFO: clear: 
+2016-08-03 16:22:03,692 INFO: clear: usermac=6c:40:08:bb:8a:5e
+2016-08-03 16:22:42,577 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:22:42,577 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:22:47,385 INFO: auth: 
+2016-08-03 16:22:47,386 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:22:47,387 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:23:01,311 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:23:01,311 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:23:44,408 INFO: clear: usermac=6c:40:08:bb:8a:5e
+2016-08-03 16:23:56,534 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:23:56,535 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:24:02,709 INFO: auth: 
+2016-08-03 16:24:02,709 INFO: username: binqsoft, password: 14 chars
+2016-08-03 16:24:02,709 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:24:19,235 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:24:19,235 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:24:25,043 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:24:25,043 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:24:58,566 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:24:58,566 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:25:09,636 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:25:09,636 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:29:42,340 INFO: clear: usermac=6c:40:08:bb:8a:5e
+2016-08-03 16:29:52,557 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:29:52,558 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:29:52,821 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:29:52,822 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:30:18,040 INFO: auth: 
+2016-08-03 16:30:18,041 INFO: username: binqsoft, password: 4 chars
+2016-08-03 16:30:18,041 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:30:18,295 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:33:09,594 INFO: auth: 
+2016-08-03 16:33:09,595 INFO: username: binqsoft, password: 6 chars
+2016-08-03 16:33:09,595 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:33:09,797 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:33:09,799 INFO: handle_auth: Auth=Failed
+2016-08-03 16:33:17,693 INFO: auth: 
+2016-08-03 16:33:17,693 INFO: username: binqsoft, password: 2 chars
+2016-08-03 16:33:17,694 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:33:17,837 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:33:17,837 INFO: handle_auth: Auth=Failed
+2016-08-03 16:34:03,436 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('Login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:34:35,802 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:34:35,802 INFO: handle_login: 
+2016-08-03 16:34:38,806 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:34:38,806 INFO: handle_login: 
+2016-08-03 16:34:40,412 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:34:40,413 INFO: handle_login: 
+2016-08-03 16:35:30,784 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:35:30,784 INFO: handle_login: 
+2016-08-03 16:36:11,977 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:36:11,978 INFO: handle_login: 
+2016-08-03 16:36:14,329 DEBUG: ImmutableMultiDict([])
+2016-08-03 16:36:14,329 INFO: handle_login: 
+2016-08-03 16:36:17,208 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('Login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:36:17,208 INFO: handle_login: Login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:36:17,316 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:36:17,317 INFO: handle_auth: Auth=Failed
+2016-08-03 16:36:21,024 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:36:21,024 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:36:21,157 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:36:21,157 INFO: handle_auth: Auth=Failed
+2016-08-03 16:36:40,765 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:36:40,765 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:36:40,956 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:36:40,957 INFO: handle_auth: Auth=Failed
+2016-08-03 16:36:45,195 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:36:45,195 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:36:45,320 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:36:45,320 INFO: handle_auth: Auth=Failed
+2016-08-03 16:36:52,901 INFO: auth: 
+2016-08-03 16:36:52,903 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:36:52,903 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:36:59,774 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:36:59,774 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:37:07,443 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:37:07,443 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:37:11,502 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('Login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:37:11,502 INFO: handle_login: Login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:37:17,680 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'6c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:37:17,681 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:37:23,005 DEBUG: ImmutableMultiDict([('apip', u'192.168.0.181'), ('apmac', u'08:5b:0e:ec:74:be'), ('usermac', u'7c:40:08:bb:8a:5e'), ('device_type', u'mac'), ('userip', u'192.168.10.4'), ('magic', u'04050f8ebce39071'), ('login', u''), ('post', u'http://127.0.0.1:1000/fgtauth')])
+2016-08-03 16:37:23,006 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=7c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:37:30,608 INFO: auth: 
+2016-08-03 16:37:30,609 INFO: username: binqsoft, password: 2 chars
+2016-08-03 16:37:30,609 INFO: Cache the auth info for binqsoft:7c:40:08:bb:8a:5e
+2016-08-03 16:37:30,754 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:37:30,754 INFO: handle_auth: Auth=Failed
+2016-08-03 16:37:37,635 INFO: auth: 
+2016-08-03 16:37:37,636 INFO: username: binqsoft, password: 3 chars
+2016-08-03 16:37:37,636 INFO: Cache the auth info for binqsoft:7c:40:08:bb:8a:5e
+2016-08-03 16:37:37,769 DEBUG: ImmutableMultiDict([('Auth', u'Failed')])
+2016-08-03 16:37:37,770 INFO: handle_auth: Auth=Failed
+2016-08-03 16:38:27,164 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:38:33,820 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:38:36,906 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=7c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:38:37,025 INFO: handle_auth: Auth=Failed
+2016-08-03 16:38:44,255 INFO: auth: 
+2016-08-03 16:38:44,255 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:38:44,256 INFO: Cache the auth info for binqsoft:7c:40:08:bb:8a:5e
+2016-08-03 16:38:46,999 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:38:49,530 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=7c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:39:02,475 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:39:48,950 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:40:10,888 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:40:44,141 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:40:52,608 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:41:05,539 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:41:26,089 INFO: handle_login: login&post=http://127.0.0.1:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:41:35,987 INFO: clear: usermac=6c:40:08:bb:8a:5e
+2016-08-03 16:41:48,069 INFO: handle_login: login&post=http://192.168.9.9:1000/fgtauth&magic=04050f8ebce39071&usermac=6c:40:08:bb:8a:5e&apmac=08:5b:0e:ec:74:be&apip=192.168.0.181&userip=192.168.10.4&device_type=mac
+2016-08-03 16:42:05,789 INFO: auth: 
+2016-08-03 16:42:05,802 INFO: username: binqsoft, password: 12 chars
+2016-08-03 16:42:05,803 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e
+2016-08-03 16:42:06,046 INFO: handle_auth: Auth=Failed
+2016-08-03 16:42:21,956 INFO: auth: 
+2016-08-03 16:42:21,957 INFO: username: binqsoft, password: 11 chars
+2016-08-03 16:42:21,957 INFO: Cache the auth info for binqsoft:6c:40:08:bb:8a:5e

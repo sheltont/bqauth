@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>自动提交验证信息</title>
+    <script type="text/javascript">
+      function submit(){
+        document.getElementById('form_submit').submit();
+      }
+    </script>
+  </head>
+  <body onLoad="submit()">
+    <form method="POST" id="form_submit" action="{{post}}">
+      <input style="display:none" name="username" value="{{username}}" type="text" >
+      <input style="display:none" name="password" value="{{password}}" type="password">
+      <input style="display:none" type="text" name="magic" id="magic" value="{{ magic |safe }}" />
+    </form>
+  </body>
+</html>
+
