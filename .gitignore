@@ -90,3 +90,4 @@ ENV/
 
 # Logging folder
 logging/
+.log
