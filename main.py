@@ -49,8 +49,8 @@ def handle_auth():
     """
     app.logger.info('handle_auth: ' + request.query_string)
     usermac = get_usermac()
-    status = request.args.get('auth')
-    if status and status.lower() == 'failed':
+    status = request.args.get('Auth')
+    if status and status.lower() == 'Failed':
         if (usermac in session):
             redis_store.delete(usermac)
 
