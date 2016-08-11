@@ -1,19 +1,18 @@
 # -*- coding: utf-8 -*-
-from flask import Flask, render_template, request, make_response, redirect, session
-from flask.ext.redis import FlaskRedis
 import sys
-import base64
-import datetime
-import requests
-import time
-import logging
+import argparse
 import cPickle as pickle
+import logging
 from logging.handlers import RotatingFileHandler
+from flask import Flask, render_template, request, make_response, redirect, session
+#from flask.ext.redis import FlaskRedis
+from flask_redis import FlaskRedis
+import prpcrypt
 
 app = Flask(__name__)
 app.config.from_object('config')
-
 redis_store =  FlaskRedis(app)
+crypt = prpcrypt.Crypt("enotsniytfosqnib")
 
 # Generated with: import os; os.urandom(24)
 app.secret_key = '\xf7h\xcf\x9c\xf9=\xbc\x11\x7f+\xe7g\x1cm\xafo,ICWc\x12\xe6\xff'
@@ -21,6 +20,7 @@ app.secret_key = '\xf7h\xcf\x9c\xf9=\xbc\x11\x7f+\xe7g\x1cm\xafo,ICWc\x12\xe6\xf
 
 # VERY = 'http://192.168.10.1:1000/fgtauth&'
 daysOfTTL = 3
+listenPort = 8080
 
 
 # http://192.168.9.107/?login&
@@ -147,10 +147,12 @@ def get_authinfo_from_cache(usermac):
         userinfo = pickle.loads(userdata)
         username = userinfo['username']
         password = userinfo['password']
+        password = crypt.decrypt(password)
         return {'username': username, 'password': password}
     return None
 
 def set_authinfo_to_cache(usermac, username, password, ttl):
+    password = crypt.encrypt(password)
     userinfo = {'username': username, 'password': password, 'usermac': usermac}
     userdata = pickle.dumps(userinfo)
     app.logger.info("Cache the auth info for {0}:{1}".format(username, usermac))
@@ -178,18 +180,27 @@ def days_of_ttl(arg):
     except Exception:
         return 3
 
-if __name__ == '__main__':
-    # The default authentcation TTL is 3 days.
-    print len(sys.argv)
-    print sys.argv
-    if len(sys.argv) >= 2:
-        daysOfTTL = days_of_ttl(sys.argv[1])
 
+def run():
     handler = RotatingFileHandler('./logging/bqauth.log', maxBytes=1000000, backupCount=7)
     handler.setLevel(logging.INFO)
     formatter = logging.Formatter("%(asctime)s %(levelname)s: %(message)s")
     handler.setFormatter(formatter)
     app.logger.addHandler(handler)
-    app.logger.info("Binqsoft authentication portal is running")
+    app.logger.info("Binqsoft authentication portal is running on the TCP port {0}".format(listenPort))
     app.logger.info("The default TTL of authentication session is {0} days".format(daysOfTTL))
-    app.run(host='0.0.0.0', port=80, debug=True)
+    app.run(host='0.0.0.0', port=listenPort, debug=True)
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-p", "--port", type=int, default=8080, help="TCP listen port, the default is 8080")
+    parser.add_argument("-t", "--ttl", type=int, default=3, help="days of session TTL, the default is 3")
+    args = parser.parse_args()
+    daysOfTTL = max(1, args.ttl)
+    listenPort = args.port
+    run()
+
+
+
+
