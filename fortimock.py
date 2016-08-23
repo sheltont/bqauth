@@ -50,4 +50,4 @@ if __name__ == '__main__':
     handler.setFormatter(formatter)
     app.logger.addHandler(handler)
     app.logger.info("Fortinet Mock Authenticator is running")
-    app.run(host='0.0.0.0', port=1000, debug=True)
+    app.run(host='0.0.0.0', port=8081, debug=True)

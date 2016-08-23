@@ -8,6 +8,7 @@ from flask import Flask, render_template, request, make_response, redirect, sess
 #from flask.ext.redis import FlaskRedis
 from flask_redis import FlaskRedis
 import prpcrypt
+import os
 
 app = Flask(__name__)
 app.config.from_object('config')
@@ -21,6 +22,7 @@ app.secret_key = '\xf7h\xcf\x9c\xf9=\xbc\x11\x7f+\xe7g\x1cm\xafo,ICWc\x12\xe6\xf
 # VERY = 'http://192.168.10.1:1000/fgtauth&'
 hourOfTTL = 72
 listenPort = 8080
+debugLevel=logging.INFO
 
 
 # http://192.168.9.107/?login&
@@ -174,24 +176,28 @@ def get_ttl_hour():
 
 
 def run():
-    handler = TimedRotatingFileHandler('./logging/auth.log', when='D', interval=1, backupCount=7)
-    handler.suffix = "%Y%m%d.log"
-    handler.setLevel(logging.INFO)
+    handler = RotatingFileHandler('./logging/auth.log', maxBytes=10000000, backupCount=7)
     formatter = logging.Formatter("%(asctime)s %(levelname)s: %(message)s")
     handler.setFormatter(formatter)
     app.logger.addHandler(handler)
     app.logger.info("Binqsoft authentication portal is running on the TCP port {0}".format(listenPort))
     app.logger.info("The default TTL of authentication session is {0} hours".format(hourOfTTL))
-    app.run(host='0.0.0.0', port=listenPort, debug=True)
+    app.run(host='0.0.0.0', port=listenPort, debug=(debugLevel==logging.DEBUG))
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-p", "--port", type=int, default=8080, help="TCP listen port, the default is 8080")
     parser.add_argument("-t", "--ttl", type=int, default=72, help="hours of session TTL, the default is 72")
+    parser.add_argument("-d", "--debug", type=int, default=0, help="debug level: 0 is INFO, 1 is DEBUG")
+    
     args = parser.parse_args()
     hourOfTTL = args.ttl
     listenPort = args.port
+    if args.debug == 0:
+        debugLevel = logging.INFO
+    if args.debug >= 1:
+        debugLevel = logging.DEBUG
     run()
 
 
