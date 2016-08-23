@@ -198,8 +198,10 @@ if __name__ == '__main__':
         debugLevel = logging.INFO
     if args.debug >= 1:
         debugLevel = logging.DEBUG
-    run()
-
+    try:
+        run()
+    except KeyboardInterrupt:
+        sys.exit()
 
 
 
